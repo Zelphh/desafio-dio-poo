@@ -1,0 +1,12 @@
+Alterações Feitas:
+
+Exibição da mensagem de conclusão do curso
+
+Alterações Futuras:
+
+Criação do objeto "Certificado";
+Criação do método "gerarCertificado";
+Iclusão do atributo "level" a entidade "Dev";
+.
+.
+.
